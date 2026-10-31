@@ -1,2 +1,2 @@
 # medimart
-pharmacy management system :
+pharmacy management system : to save time 
